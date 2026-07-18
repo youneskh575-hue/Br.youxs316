@@ -76,3 +76,37 @@ Instagram
 
 </body>
 </html>
+body{
+background:#080808;
+color:white;
+font-family:Arial;
+text-align:center;
+margin:0;
+}
+
+header,section{
+padding:40px;
+margin:15px;
+}
+
+h1,h2{
+color:#d4af37;
+}
+
+.btn{
+background:#d4af37;
+color:black;
+padding:15px 25px;
+border-radius:10px;
+text-decoration:none;
+display:inline-block;
+margin:15px;
+}
+
+p{
+font-size:18px;
+}
+
+a{
+color:#d4af37;
+}
